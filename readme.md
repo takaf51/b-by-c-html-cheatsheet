@@ -13,6 +13,11 @@
 <mark>ハイライト</mark>
 ```
 
+## 🎨 リンク
+```html
+<a href="http://www.yahoo.co.jp">ヤフーに飛びます</a>
+```
+
 ## 🎨 インラインスタイル（style属性）
 
 ```html
